@@ -1,5 +1,5 @@
 ## $$\boxed{A \space Struggling \space Student}$$
-- Interested in Computing Architecture, Electronics, and CS.
+- Interested in computing architecture, electronics, and cs.
 - I've built many computers through hardware parts for family and myself.
 - Oh yeah, I love mechanical keebs and play rhythm games in my freetime! <3
 
