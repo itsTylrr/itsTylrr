@@ -1,4 +1,4 @@
-## $$\boxed{A \space Struggling \space Survivior}$$
+## $$\boxed{A \space Struggling \space Student}$$
 - Interested in Computing Architecture, Electronics, and CS.
 - I've built many computers through hardware parts for family and myself.
 - Oh yeah, I love mechanical keebs and play rhythm games in my freetime! <3
