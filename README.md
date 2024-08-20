@@ -1,6 +1,6 @@
 ## $$\boxed{A \space Struggling \space Student}$$
 - Interested in computing architecture, electronics, and cs.
-- Built many computers through hardware parts for my family and me.
+- Mainly aiming for VLSI
 - Oh yeah, I love mechanical keebs and play rhythm games in my free time! <3
 
 <div id="header" align="center">
