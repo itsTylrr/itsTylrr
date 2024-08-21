@@ -1,4 +1,5 @@
 # $$\boxed{A \space Struggling \space Student}$$
+- University of California, San Diego
 ## About Me ᕙ(`▽´)ᕗ
 - Interested in computing architecture, electronics, and cs.
 - Mainly aiming for VLSI
