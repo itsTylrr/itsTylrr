@@ -1,4 +1,5 @@
-## $$\boxed{A \space Struggling \space Student}$$
+# $$\boxed{A \space Struggling \space Student}$$
+## About Me ᕙ(`▽´)ᕗ
 - Interested in computing architecture, electronics, and cs.
 - Mainly aiming for VLSI
 - Oh yeah, I love mechanical keebs and play rhythm games in my free time! <3
