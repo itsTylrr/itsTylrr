@@ -30,7 +30,7 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 
 - Currently studying Computer Engineering
 - Might write notes on LaTeX
-- Continue to have fun! :D
+- Continuing to have fun! :D
 
 </details>
 
