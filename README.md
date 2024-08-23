@@ -15,7 +15,7 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 
 ### More About Me
 <details>
-<summary>My Hobbies :D</summary>
+<summary>My Hobbies 💡</summary>
 
 - Building computers and mechanical keyboards.
 - Programming simple (or complex) programs
@@ -26,7 +26,7 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 </details>
 
 <details>
-<summary>My Plans</summary>
+<summary>My Plans 📘 </summary>
 
 - Currently studying Computer Engineering
 - Might write notes on LaTeX
@@ -35,7 +35,7 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 </details>
 
 <details>
-<summary>Contacts</summary>
+<summary>My Contacts 📌</summary>
 
 - N/A yet
 
