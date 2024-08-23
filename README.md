@@ -19,7 +19,7 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 
 - Building computers and mechanical keyboards.
 - Programming simple (or complex) programs
-- Playing rhythm games (with or without sound)
+- Playing rhythm games (with or without music)
 - Photography and video editing (I'm not that good at either)
 - Watching movies, TV shows, anime
 
