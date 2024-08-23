@@ -6,21 +6,37 @@
 
 
 ### $$\boxed{A \space Struggling \space Student}$$
-Hello, I'm Tyler! a Computer Engineering student at the [University of California, San Diego](https://ucsd.edu/) as a part of the [Electrical and Computer Engineering](https://ece.ucsd.edu/) department!
+Hello! I'm Tyler, a Computer Engineering student at the [University of California, San Diego](https://ucsd.edu/) as a part of the [Electrical and Computer Engineering](https://ece.ucsd.edu/) department!
 
 ### About Me ᕙ(`▽´)ᕗ
 - Interested in Computer Architecture, Electronics, and Computer Science. 
 - Mainly aiming for VLSI or somewhere in the computer hardware space.
 - Oh yeah, I love mechanical keyboards and play rhythm games in my free time! <3
 
+### More About Me
 <details>
 <summary>My Hobbies :D</summary>
-<br> 
 
 - Building computers and mechanical keyboards.
 - Programming simple (or complex) programs
 - Playing rhythm games (with or without sound)
 - Photography and video editing (I'm not that good at either)
+- Watching movies, TV shows, anime
 
-</br>
+</details>
+
+<details>
+<summary>My Plans</summary>
+
+- Currently studying Computer Engineering
+- Might write notes on LaTeX
+- Continue to have fun! :D
+
+</details>
+
+<details>
+<summary>Contacts</summary>
+
+- N/A yet
+
 </details>
