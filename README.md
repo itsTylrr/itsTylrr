@@ -6,7 +6,7 @@
 
 
 # $$\boxed{A \space Struggling \space Student}$$
-Hello! I'm Tyler, a Computer Engineering student at the [University of California, San Diego](https://ucsd.edu/) as apart of the [Electrical and Computer Engineering](https://ece.ucsd.edu/) department!
+Hello! I'm Tyler, a Computer Engineering student at the [University of California, San Diego](https://ucsd.edu/) as a part of the [Electrical and Computer Engineering](https://ece.ucsd.edu/) department!
 
 ## About Me ᕙ(`▽´)ᕗ
 - Interested in Computer Architecture, Electronics, and Computer Science. 
