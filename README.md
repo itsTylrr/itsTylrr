@@ -4,9 +4,11 @@
   </tr>
 </table>
 
+
 # $$\boxed{A \space Struggling \space Student}$$
-- University of California, San Diego
+Hello! I'm Tyler, a Computer Engineering student at the [University of California, San Diego](https://ucsd.edu/) as apart of the [Electrical and Computer Engineering](https://ece.ucsd.edu/) department!
+
 ## About Me ᕙ(`▽´)ᕗ
 - Interested in Computer Architecture, Electronics, and Computer Science. 
-- Aiming for VLSI
+- Mainly aiming for VLSI or somewhere in the hardware space.
 - Oh yeah, I love mechanical keyboards and play rhythm games in my free time! <3
