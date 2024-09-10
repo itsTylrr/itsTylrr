@@ -18,25 +18,26 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 <summary>My Hobbies 💡</summary>
 
 - Building computers and mechanical keyboards.
-- Programming simple (or complex) programs
-- Playing rhythm games (with or without music)
-- Photography and video editing (I'm not that good at either)
-- Watching movies, TV shows, anime
+- Programming simple (or complex) programs.
+- Playing rhythm games (with or without music).
+- Photography and video editing (I'm not that good at either).
+- Watching movies, TV shows, and anime.
 
 </details>
 
 <details>
 <summary>My Plans 📘 </summary>
 
-- Currently studying Computer Engineering
-- Might write notes on LaTeX
-- Continuing to have fun! :D
+- Currently studying Computer Engineering.
+- Might write notes on LaTeX.
+- Continue to have fun! :D
 
 </details>
 
 <details>
 <summary>My Contacts 📌</summary>
 
-- N/A yet
+- [LinkedIn](https://www.linkedin.com/in/tyler-houy-32a000252/)
+- Email: houytyler0@gmail.com
 
 </details>
