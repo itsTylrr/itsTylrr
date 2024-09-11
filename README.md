@@ -11,6 +11,8 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 ### About Me ᕙ(`▽´)ᕗ
 - Interested in Computer Architecture, Electronics, and Computer Science. 
 - Mainly aiming for VLSI or somewhere in the computer hardware space.
+- Currently know Python, Java, JS, HTML, and CSS.
+- Trying to learn more advanced programming languages (Verilog, SystemVerilog, C, C++, MATLAB)
 - Oh yeah, I love mechanical keyboards and play rhythm games in my free time! <3
 
 ### More About Me
@@ -18,7 +20,7 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 <summary>My Hobbies 💡</summary>
 
 - Building computers and mechanical keyboards.
-- Programming simple (or complex) programs.
+- Programming simple (or complex) applications.
 - Playing rhythm games (with or without music).
 - Photography and video editing (I'm not that good at either).
 - Watching movies, TV shows, and anime.
@@ -29,7 +31,9 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 <summary>My Plans 📘 </summary>
 
 - Currently studying Computer Engineering.
-- Might write notes on LaTeX.
+- Continue to learn more advanced programming languages such as Verilog,SystemVerilog, MATLAB, C, C++, and many more.
+- Might write notes in LaTeX and publish them in Github.
+- Finding any availble internships, research, job opportunities pertaining to the hardware engineering industry.
 - Continue to have fun! :D
 
 </details>
@@ -37,7 +41,7 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 <details>
 <summary>My Contacts 📌</summary>
 
+- [Email](mailto:houytyler0@gmail.com) (Easiest and fastest way of contact)
 - [LinkedIn](https://www.linkedin.com/in/tyler-houy-32a000252/)
-- Email: houytyler0@gmail.com
 
 </details>
