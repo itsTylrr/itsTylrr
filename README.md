@@ -33,7 +33,7 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 - Currently studying Computer Engineering.
 - Continue to learn more advanced programming languages such as Verilog,SystemVerilog, MATLAB, C, C++, and many more.
 - Might write notes in LaTeX and publish them in Github.
-- Finding any availble internships, research, job opportunities pertaining to the hardware engineering industry.
+- Finding any available internships, research, job opportunities pertaining to the hardware engineering industry.
 - Continue to have fun! :D
 
 </details>
