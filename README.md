@@ -12,7 +12,7 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 - Interested in Computer Architecture, Electronics, and Computer Science. 
 - Mainly aiming for VLSI or somewhere in the hardware engineering space.
 - Currently, I only know Python, Java, JS, HTML, and CSS.
-- Trying to learn more advanced programming languages (Verilog, SystemVerilog, C, C++, MATLAB)
+- Trying to learn more advanced programming languages.
 - Oh yeah, I love mechanical keyboards and play rhythm games in my free time! <3
 
 ### More About Me
