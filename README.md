@@ -10,9 +10,9 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 
 ### About Me ᕙ(`▽´)ᕗ
 - Interested in Computer Architecture, Electronics, and Computer Science. 
-- Mainly aiming for VLSI or somewhere in the hardware engineering space.
-- Currently, I only know Python, Java, JS, HTML, and CSS.
-- Trying to learn more advanced programming languages (Verilog, SystemVerilog, C, C++, MATLAB)
+- Mainly aiming for the Embedded Systems space.
+- As of now, I only know Python, Java, JS, HTML, and CSS.
+- Trying to learn more advanced programming languages.
 - Oh yeah, I love mechanical keyboards and play rhythm games in my free time! <3
 
 ### More About Me
@@ -22,7 +22,7 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 - Building computers and mechanical keyboards.
 - Programming simple (or complex) applications.
 - Playing rhythm games (with or without music).
-- Photography and video editing (I'm not that good at either).
+- Photography and video editing (I'm not good at either).
 - Watching movies, TV shows, and anime.
 
 </details>
@@ -31,9 +31,8 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 <summary>My Plans 📘 </summary>
 
 - Currently studying Computer Engineering.
-- Continue to learn more advanced programming languages such as Verilog,SystemVerilog, MATLAB, C, C++, and many more.
-- Might write notes in LaTeX and publish them in Github.
-- Finding any available internships, research, job opportunities pertaining to the hardware engineering industry.
+- Continue to learn more advanced programming languages such as MATLAB, C, C++, and many more.
+- Find any available internships, research, or job opportunities in the hardware engineering industry.
 - Continue to have fun! :D
 
 </details>
@@ -42,6 +41,6 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 <summary>My Contacts 📌</summary>
 
 - [Email](mailto:houytyler0@gmail.com) (Easiest and fastest way of contact)
-- [LinkedIn](https://www.linkedin.com/in/tyler-houy-32a000252/)
+- [LinkedIn](https://www.linkedin.com/in/tyler-houy/)
 
 </details>
