@@ -5,42 +5,40 @@
 </table>
 
 
-### $$\boxed{A \space Struggling \space Student}$$
+### $$\boxed{Computer \space Engineer \space @ \space UC \space San \space Diego}$$
 Hello! I'm Tyler, a Computer Engineering student at the [University of California, San Diego](https://ucsd.edu/) as a part of the [Electrical and Computer Engineering](https://ece.ucsd.edu/) department!
 
 ### About Me ᕙ(`▽´)ᕗ
 - Interested in Computer Architecture, Electronics, and Computer Science. 
-- Mainly aiming for the Embedded Systems space.
-- As of now, I only know Python, Java, JS, HTML, and CSS.
+- Mainly aiming for the embedded systems/software.
+- As of now, I only know Python, Java, Javascript, Node.js, Lua, and HTML/CSS. 
 - Trying to learn more advanced programming languages.
-- Oh yeah, I love mechanical keyboards and play rhythm games in my free time! <3
-
-### More About Me
+- Finding ways to apply my skills to real life applications.
+### More About Me :D
 <details>
 <summary>My Hobbies 💡</summary>
 
 - Building computers and mechanical keyboards.
 - Programming simple (or complex) applications.
-- Playing rhythm games (with or without music).
 - Photography and video editing (I'm not good at either).
 - Watching movies, TV shows, and anime.
+- Playing rhythm games.
 
 </details>
 
 <details>
 <summary>My Plans 📘 </summary>
 
-- Currently studying Computer Engineering.
-- Continue to learn more advanced programming languages such as MATLAB, C, C++, and many more.
-- Find any available internships, research, or job opportunities in the hardware engineering industry.
-- Continue to have fun! :D
+- Currently studying Computer Engineering as apart of the ECE department at UCSD.
+- Continue to learn more programming languages.
+- Continue to have fun!
 
 </details>
 
 <details>
 <summary>My Contacts 📌</summary>
 
-- [Email](mailto:houytyler0@gmail.com) (Easiest and fastest way of contact)
-- [LinkedIn](https://www.linkedin.com/in/tyler-houy/)
+- My [Email](mailto:houytyler0@gmail.com)
+- My [LinkedIn](https://www.linkedin.com/in/tyler-houy/)
 
 </details>
