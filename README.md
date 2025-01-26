@@ -9,11 +9,10 @@
 Hello! I'm Tyler, a Computer Engineering student at the [University of California, San Diego](https://ucsd.edu/) as a part of the [Electrical and Computer Engineering](https://ece.ucsd.edu/) department!
 
 ### About Me ᕙ(`▽´)ᕗ
-- Interested in Computer Architecture, Electronics, and Computer Science. 
+- Interested in computer architecture, electronics, and computer science. 
 - Mainly aiming for the embedded systems/software.
-- As of now, I only know Python, Java, Javascript, Node.js, Lua, and HTML/CSS. 
+- As of now, I only know Python, Java, Javascript, HTML/CSS. 
 - Trying to learn more advanced programming languages.
-- Finding ways to apply my skills to real life applications.
 ### More About Me :D
 <details>
 <summary>My Hobbies 💡</summary>
@@ -29,8 +28,7 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 <details>
 <summary>My Plans 📘 </summary>
 
-- Currently studying Computer Engineering as apart of the ECE department at UCSD.
-- Continue to learn more programming languages.
+- Currently studying Computer Engineering.
 - Continue to have fun!
 
 </details>
