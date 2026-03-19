@@ -4,8 +4,6 @@
   </tr>
 </table>
 
-
-### $$\boxed{Computer \space Engineer \space @ \space UC \space San \space Diego}$$
 Hello! I'm Tyler, a Computer Engineering student at the [University of California, San Diego](https://ucsd.edu/) as a part of the [Electrical and Computer Engineering](https://ece.ucsd.edu/) department!
 
 ### About Me ᕙ(`▽´)ᕗ
