@@ -24,19 +24,3 @@ Hello! I'm Tyler, a Computer Engineering student at the [University of Californi
 - Playing rhythm games.
 
 </details>
-
-<details>
-<summary>My Plans 📘 </summary>
-
-- Currently studying Computer Engineering.
-- Continue to have fun!
-
-</details>
-
-<details>
-<summary>My Contacts 📌</summary>
-
-- My [Email](mailto:houytyler0@gmail.com)
-- My [LinkedIn](https://www.linkedin.com/in/tyler-houy/)
-
-</details>
