@@ -20,4 +20,4 @@ Hi! I'm Tyler, a Computer Engineering student at the [University of California, 
 
 </details>
 
-- My [Portfolio Website](https://tylerhouy.com/) 
+- [Portfolio Website](https://tylerhouy.com/) ○( ＾皿＾)っ Hehehe… 
