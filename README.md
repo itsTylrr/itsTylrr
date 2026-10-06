@@ -4,18 +4,17 @@
   </tr>
 </table>
 
-Hello! I'm Tyler, a Computer Engineering student at the [University of California, San Diego](https://ucsd.edu/) as a part of the [Electrical and Computer Engineering](https://ece.ucsd.edu/) department!
+Hi! I'm Tyler, a Computer Engineering student at the [University of California, San Diego](https://ucsd.edu/) as part of the [Electrical and Computer Engineering](https://ece.ucsd.edu/) department!
 
 ### About Me ᕙ(`▽´)ᕗ
 - Interested in computer architecture, electronics, and computer science, mainly leaning towards the EE side. 
-- Aiming for VLSI, RTL Design, Embedded Systems.
+- Learning VLSI, circuit design, and computer architecture.
 ### More About Me :D
 <details>
-<summary>My Hobbies 💡</summary>
+<summary>My Hobbies (*^▽^*)</summary>
 
 - Building computers and mechanical keyboards.
-- Programming simple (or complex) applications.
-- Photography and video editing (I'm not good at either).
+- Photography and video editing (I'm not good at either, but it's fun).
 - Watching movies, TV shows, and anime.
 - Playing rhythm games.
 
