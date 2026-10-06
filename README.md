@@ -19,4 +19,5 @@ Hi! I'm Tyler, a Computer Engineering student at the [University of California, 
 - Playing rhythm games.
 
 </details>
-- My [Portfolio Website](https://tylerhouy.com/)
+
+- My [Portfolio Website](https://tylerhouy.com/) 
