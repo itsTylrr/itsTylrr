@@ -10,14 +10,15 @@ Hi! I'm Tyler, a Computer Engineering student at the [University of California, 
 - Interested in computer architecture, electronics, and computer science, mainly leaning towards the EE side. 
 - Learning VLSI, circuit design, and computer architecture.
 ### More About Me :D
+- [Portfolio Website](https://tylerhouy.com/) ○( ＾皿＾)っ 
+- [LinkedIn](https://www.linkedin.com/in/tyler-houy/) (oﾟvﾟ)ノ
+
 <details>
 <summary>My Hobbies (*^▽^*)</summary>
 
 - Building computers and mechanical keyboards.
 - Photography and video editing (I'm not good at either, but it's fun).
-- Watching movies, TV shows, and anime.
+- Watching movies, TV shows, and anime (mainly anime!!!)
 - Playing rhythm games.
 
 </details>
-
-- [Portfolio Website](https://tylerhouy.com/) ○( ＾皿＾)っ Hehehe… 
